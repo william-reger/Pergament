@@ -1,5 +1,5 @@
 {
-  "title": "William 2026",
+  "title": "Williams Wünsche",
   "categories": [
     {
       "id": "socken",
@@ -22,14 +22,69 @@
   ],
   "wishes": [
     {
-      "name": "Kuschelige Norweger-Wollsocken",
-      "description": "Größe 42–43, gerne in warmem Rostrot oder Waldgrün für den Winter.",
-      "url": "https://www.etsy.com/de/search?q=norweger+wollsocken",
-      "image": "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?auto=format&fit=crop&w=600&q=80",
-      "price": "24,90 €",
+      "name": "adidas Originals Socken (6er Pack – Brown / Putty Grey / Sand)",
+      "description": "Größe 46–48",
+      "url": "https://en.zalando.de/adidas-originals-unisex-6-pack-socks-brownputty-greycrystal-sand-ad181003z-o12.html?_rfl=de",
+      "image": "https://img01.ztat.net/article/spp-media-p1/b5c3172486f14eb6a3a1a16b46df0bb3/e902c08e5dd443839cdf2b886da3cb55.jpg?imwidth=1800&filter=packshot",
+      "price": "18,45 €",
       "category": "socken",
       "priority": 3,
       "attachment": "wax-red",
+      "fulfilled": false
+    },
+    {
+      "name": "adidas Originals Crew Socken (6er Pack – Cloud White / Vanilla / Khaki)",
+      "description": "Größe 46–48",
+      "url": "https://en.zalando.de/adidas-originals-crew-unisex-6-pack-socks-cloud-whitewarm-vanillakhaki-three-ad181003z-a15.html",
+      "image": "https://img01.ztat.net/article/spp-media-p1/b6abca55f8394dcdbb3b9cb788accc42/765f5d80a32949f5827787d2f32b1759.jpg?imwidth=1800&filter=packshot",
+      "price": "",
+      "category": "socken",
+      "priority": 3,
+      "attachment": "tape",
+      "fulfilled": false
+    },
+    {
+      "name": "Lacoste Socken (6er Pack – Green / Camel)",
+      "description": "Größe 43–46",
+      "url": "https://www.zalando.de/lacoste-socks-6-pack-unisex-socken-greencamel-la281000z-m11.html?ssku=LA281000Z-M110434000&lang=de&otid=default&wmc=SEM490_NB_GO._7713128529_677835352_33308218703.&opc=2211&mpp=google%7Cv1%7C%7Cpla-294682000766%7C%7C9060677%7C%7Cg%7Cm%7C%7C147910107582%7C%7Cpla%7CLA281000Z-M110434000%7C294682000766%7C1%7C&gclsrc=aw.ds&gad_source=1&gad_campaignid=677835352&gbraid=0AAAAADM_en_111pCwMBaojLyO5ibwmkjp",
+      "image": "https://img01.ztat.net/article/spp-media-p1/c45e3a99a84a483bb3a318736ee3e96c/2038c25b60554fb9a7c5b19abe11175e.jpg?imwidth=1800&filter=packshot",
+      "price": "34,95 €",
+      "category": "socken",
+      "priority": 3,
+      "attachment": "wax-gold",
+      "fulfilled": false
+    },
+    {
+      "name": "Stadtkinder Wollsocken",
+      "description": "Größe 43–46",
+      "url": "https://stadtkinder.com/products/sk-wo-02-0004?_pos=5&_sid=c03ab7c69&_ss=r",
+      "image": "https://stadtkinder.com/cdn/shop/files/SK-WO-02-0004_shoot_1_q_0f823a25-30a8-494c-9c72-9b2376494a8d.jpg?v=1759004352&width=980",
+      "price": "14,90 €",
+      "category": "socken",
+      "priority": 1,
+      "attachment": "pin",
+      "fulfilled": false
+    },
+    {
+      "name": "ARMEDANGELS Saamus Short Socks (Foam / Oatmilk)",
+      "description": "Größe 43–46",
+      "url": "https://www.armedangels.com/products/saamus-short-socks-foam-oatmilk?channable=42349169640033303030383737372d333533382d34332d343628&utm_source=google&utm_medium=cpc&utm_campaign=DE_AA_PMax_Generic_CatchAll_NCA&utm_id=20588743801&klar_source=google&klar_cpid=20588743801&klar_agid=6477731689&utm_source=google&utm_medium=cpc&utm_campaign=%7Bcampaign%7D&utm_id=20588743801&klar_source=google&klar_cpid=20588743801&klar_adid=&gad_source=1&gad_campaignid=20578959537&gbraid=0AAAAAC4bNrzwry0G7-0VV5OtlTzRsxt74&option_values=10965370011973%2C10965368275269",
+      "image": "https://www.armedangels.com/cdn/shop/files/30008777-3538_101.jpg?crop=region&crop_height=2765&crop_left=0&crop_top=0&crop_width=1920&v=1791813538&width=1900",
+      "price": "14,90 €",
+      "category": "socken",
+      "priority": 3,
+      "attachment": "wax-red",
+      "fulfilled": false
+    },
+    {
+      "name": "ARMEDANGELS Saamus Bold Socks (Sandstone)",
+      "description": "Größe 43–46",
+      "url": "https://www.armedangels.com/products/saamus-bold-socks-sandstone?channable=42349169640033303030383737362d323234382d34372d3530c2&utm_source=google&utm_medium=cpc&utm_campaign=DE_AA_PMax_Generic_CatchAll_NCA&utm_id=20588743801&klar_source=google&klar_cpid=20588743801&klar_agid=6477731689&utm_source=google&utm_medium=cpc&utm_campaign=%7Bcampaign%7D&utm_id=20588743801&klar_source=google&klar_cpid=20588743801&klar_adid=&gad_source=1&gad_campaignid=20578959537&gbraid=0AAAAAC4bNrzwry0G7-0VV5OtlTzRsxt74&option_values=10716308537669%2C10716298379589",
+      "image": "https://www.armedangels.com/cdn/shop/files/30008776-2248_101.jpg?crop=region&crop_height=2765&crop_left=0&crop_top=0&crop_width=1920&v=1791813547&width=1900",
+      "price": "14,90 €",
+      "category": "socken",
+      "priority": 2,
+      "attachment": "tape",
       "fulfilled": false
     }
   ]
