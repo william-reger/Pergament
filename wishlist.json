@@ -1,0 +1,36 @@
+{
+  "title": "William 2026",
+  "categories": [
+    {
+      "id": "socken",
+      "name": "Socken",
+      "emoji": "🧦",
+      "inkColor": "#7c2d12"
+    },
+    {
+      "id": "wohnung",
+      "name": "Wohnung",
+      "emoji": "🕯️",
+      "inkColor": "#1e3a8a"
+    },
+    {
+      "id": "tech",
+      "name": "Tech",
+      "emoji": "⚙️",
+      "inkColor": "#4c1d95"
+    }
+  ],
+  "wishes": [
+    {
+      "name": "Kuschelige Norweger-Wollsocken",
+      "description": "Größe 42–43, gerne in warmem Rostrot oder Waldgrün für den Winter.",
+      "url": "https://www.etsy.com/de/search?q=norweger+wollsocken",
+      "image": "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?auto=format&fit=crop&w=600&q=80",
+      "price": "24,90 €",
+      "category": "socken",
+      "priority": 3,
+      "attachment": "wax-red",
+      "fulfilled": false
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --font-handwriting: 'Caveat', 'Kalam', cursive;
+  --font-notes: 'Kalam', cursive;
+  --font-script: 'La Belle Aurore', cursive;
+  --font-arcane: 'Cinzel Decorative', Georgia, serif;
+  --font-serif: 'Cormorant Garamond', Georgia, serif;
+
+  --parchment-base: #f5ebd6;
+  --parchment-warm: #eddcb8;
+  --parchment-deep: #dfc496;
+  --parchment-edge: #c7a36b;
+
+  --ink-dark: #25160b;
+  --ink-sepia: #4a2e18;
+  --ink-faded: #785638;
+  --ink-crimson: #8f1d1d;
+
+  --gold-bright: #fbbf24;
+  --gold-deep: #d97706;
+  --arcane-cyan: #38bdf8;
+}
+
+html,
+body {
+  min-height: 100vh;
+  background-color: #100b08;
+  color: var(--ink-dark);
+  font-family: var(--font-handwriting);
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom Scrollbar passend zum dunklen Holztisch */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #140d09;
+}
+::-webkit-scrollbar-thumb {
+  background: #47301e;
+  border-radius: 5px;
+  border: 2px solid #140d09;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #69472c;
+}
