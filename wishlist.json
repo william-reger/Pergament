@@ -130,6 +130,28 @@
       "priority": 2,
       "attachment": "tape",
       "fulfilled": false
+    },
+    {
+      "name": "Eureka New Mignon Manuale Kaffeemühle (Schwarz Matt V2)",
+      "description": "Espressomühle mit stufenloser Mahlgradeinstellung & neuem Bohnenbehälter",
+      "url": "https://www.italianfoodlovers.de/p/eureka-new-mignon-manuale-kaffeemuehle-schwarz-matt-v2-mit-neuem-hopper",
+      "image": "https://www.italianfoodlovers.de/storage/images/image?remote=https%3A%2F%2Fwww.italianfoodlovers.de%2FWebRoot%2FStore32%2FShops%2F88451443%2F662F%2FB848%2F2815%2F4E03%2FE95A%2F0A0C%2F6D0C%2FE97F%2FBildschirmfoto_2024-04-29_um_17.09.48.png&shop=88451443&width=328&height=2560",
+      "price": "218,00 €",
+      "category": "wohnung",
+      "priority": 3,
+      "attachment": "wax-gold",
+      "fulfilled": false
+    },
+    {
+      "name": "De'Longhi Dedica Style EC685.BK Siebträgermaschine",
+      "description": "Kompakte Espressomaschine in Mattschwarz mit Milchaufschäumdüse",
+      "url": "https://www.elektrokoeck.com/de/EC685.BK/98069?utm_source=idealo&utm_medium=cpc&tagIds[]=018bb9eba9427133bcc06e7a1ed85881&campaignCode=idealode",
+      "image": "https://media.elektrokoeck.com/public/thumbnail/74/17/45/1727331461/EC685.BK%20%281%29_1920x1920.jpg?ts=1727331464",
+      "price": "119,00 €",
+      "category": "wohnung",
+      "priority": 3,
+      "attachment": "wax-red",
+      "fulfilled": false
     }
   ]
 }
